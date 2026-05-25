@@ -1,4 +1,4 @@
-sql-data-analytics-project
+🚀 sql-data-analytics-project
 A curated collection of SQL scripts designed for data exploration, analytics, and reporting. This 
 repository provides practical queries that cover a wide range of analytical themes, including:
 
